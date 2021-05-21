@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "serve": "^11.3.2"
+  },
+  "name": "jstodolist-start",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx serve -l 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
